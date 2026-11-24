@@ -1,0 +1,6 @@
+{
+  "name": "KrishiPath",
+  "description": "Bilingual (Hindi & English) offline-first agriculture education platform for Indian students preparing for B.Sc. Agriculture, CUET, and ICAR exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
